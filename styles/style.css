@@ -2,8 +2,8 @@
 .home{
     position: absolute;
     display: block;
-    width: 4rem;
-    height: 4rem;
+    width: 100px;
+    height: 100px;
     background: url("../images/home3.png") no-repeat center;
     background-size: 100%;
     right: 5%;
