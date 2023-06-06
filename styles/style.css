@@ -1,4 +1,11 @@
-h1 {
-    color: orchid;
-    text-align: center;
+
+.home{
+    position: absolute;
+    display: block;
+    width: 4rem;
+    height: 4rem;
+    background: url("../images/home3.png") no-repeat center;
+    background-size: 100%;
+    right: 5%;
+    top: .24rem;
 }
